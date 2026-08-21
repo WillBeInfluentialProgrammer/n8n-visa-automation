@@ -52,10 +52,6 @@ API_KEY	Third-party verification API key
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
-License
-MIT
 
-
----
 
 Feel free to swap out the tech stack section with whatever tools you're actually using. Let me know if you want it tailored further — e.g. specific country visa types, embassy integrations, or a different tone.
